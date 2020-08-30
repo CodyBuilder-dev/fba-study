@@ -5,7 +5,7 @@ Factor가 N개가 되면 필요한 parameter
 -> N개의 Expected Return
 -> N개의 Volatility
 -> N(N-1)/2 개의 Correlation
-
+ 
 ### 해결법
 1. Factor의 개수를 줄인다
 -> 쉽지만 risky하고 실현 불가능한 해결책
@@ -23,8 +23,6 @@ Factor가 N개가 되면 필요한 parameter
 (= Cov(ε1ε2) = 0)
 
 ### 성공의 요건
-Factor 모델의 설명력이 좋아서, 잔차가 얼마 없어야만 잘 통함
-
 ## Honey I Shrunk the Covariance Matrix
 ### Parameter Estimation 의 Trade off
 모델을 사용하면 : 제시된 모델 자체의 리스크 존재
