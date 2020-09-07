@@ -1,7 +1,7 @@
 """
 접근방식 : 
 1. Ascending, Descending에 대해 각각 한번씩 판별
-정답여부 : 정답
+정답여부 : Y
 """
 
 def set_number() : # 일렬로 들어오는 입력 받기
